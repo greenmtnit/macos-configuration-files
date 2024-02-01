@@ -6,7 +6,7 @@
 		<array>
 			<dict>
 				<key>json-url</key>
-				<string>https://raw.githubusercontent.com/greenmtnit/macos-configuration-files/main/com.github.macadmins.Nudge.testing.json</string>
+				<string>https://raw.githubusercontent.com/greenmtnit/macos-configuration-files/main/com.github.macadmins.Nudge.basic.json</string>
 				<key>PayloadDisplayName</key>
 				<string>Nudge - Web Based Configuration</string>
 				<key>PayloadIdentifier</key>
