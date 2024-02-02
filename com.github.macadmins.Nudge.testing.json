@@ -15,7 +15,7 @@
       "targetedOSVersionsRule": "14"
     },
     {
-      "requiredInstallationDate": "2024-03-28T00:00:00Z",
+      "requiredInstallationDate": "2024-02-28T00:00:00Z",
       "requiredMinimumOSVersion": "13.6.2",
       "targetedOSVersionsRule": "13"
     },
